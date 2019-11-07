@@ -1,6 +1,6 @@
 {
   "name": "json-to-wsld",
-  "version": "2.0.1",
+  "version": "2.1.0",
   "description": "Modulo para pasar de json a wsdl soap",
   "main": "index.js",
   "scripts": {
