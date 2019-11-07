@@ -7,7 +7,7 @@ npm i json-to-wsld
 
 ```
 # uso 
-
+```
 // Importar el modulo
 const m = require('.');
 
@@ -23,3 +23,4 @@ console.log(m.resta(1,2));
 // Multiplicacion
 console.log(m.multiplicacion(1,24));
 console.log(m.multiplicacion(10,300));
+```
