@@ -1,0 +1,24 @@
+{
+  "name": "json-to-wsld",
+  "version": "1.0.0",
+  "description": "Modulo para pasar de json a wsdl soap",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fredyteheranto/json-to-wsld.git"
+  },
+  "keywords": [
+    "node",
+    "json",
+    "soap"
+  ],
+  "author": "fredyteheranto <fredyteheran91@gmail.com> (https://fredyteheran.com)",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/fredyteheranto/json-to-wsld/issues"
+  },
+  "homepage": "https://github.com/fredyteheranto/json-to-wsld#readme"
+}
