@@ -1,11 +1,11 @@
-module.export = {
-    hola:function(){
+module.exports = {
+    hola: function(){
         console.log('Hola Mod');
     },
-    holaPersonalizado:function(nombre){
+    holaPersonalizado: function(nombre){
         console.log('Hola Mod',nombre);
     },
-    holaAlCursoNPM:function(){
+    holaAlCursoNPM: function(){
         console.log('Hola Desde curso');
     }
 }
